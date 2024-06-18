@@ -8,11 +8,9 @@ pinned = false
 
 <!--StartFragment-->
 
-```
 {{<lead>}}
 Biolandbau verzichtet auf chemische Pestizide und fördert die Bodenfruchtbarkeit. Diese nachhaltige Methode liefert gesunde Lebensmittel und schont die Umwelt.
 {{</lead>}}
-```
 
 Er hat bereits vor drei Jahren den Umstieg auf Bio gewagt: Heute verwendet er keine Herbizide auf seinen Feldern, lässt seinen Kühen regelmässiger ihren Auslauf und setzt auf natürliche Schädlingsbekämpfung – etwas, das im konventionellen Landbau überhaupt nicht vorkommt.
 
@@ -24,14 +22,17 @@ Es ist Viertel nach fünf. Alex Wüthrich steht schon auf und geht seine Tiere f
 
 Der 43-jährige Alex Wüthrich lebt zusammen mit Frau und Vater und seinen zwei Kindern auf seinem Betrieb im Gümligen Tal. Er ist seit 27 Jahren Bauer; als er 16 war, galt er offiziell als Bauer. Zu Beginn seiner Laufbahn war er auswärts als Bauer aktiv. Nach einigen Jahren kehrte er wieder ins Gümligen Tal zurück zum Betrieb seines Vaters, um ihn zu unterstützen. 2016 übernahm er mittels Kaufvertrags den Betrieb seines Vaters und 4 Jahre später beschloss er, den Umstieg auf Bio zu wagen. Die hügelige und extensive Landschaft der Umgebung machte intensive Landwirtschaft schwierig. Als er seine Masterprüfung machte, wog er die Vor- und Nachteile der Biolandwirtschaft ab. Zum Beispiel berücksichtigte er den Mehraufwand und die Notwendigkeit, resistentere Kulturen zu wählen, wie eine widerstandsfähigere Getreidesorte. Ein Vorteil war für ihn der staatliche Erlös. Für Wüthrich war es auch eine ethische Frage. Er wollte nachhaltig produzieren, den Boden gesund erhalten und somit einen geschlossenen Kreislauf auf seinem Betrieb schaffen. Anfang 2021 wurde der Betrieb als Umstellungsbetrieb anerkannt und seit dem 1. Januar 2023 ist er offiziell ein Biobetrieb. Er erklärte uns, wie die Umstellung für ihn verlief.
 
+### Der Weg zur Knospe
+
 ```
-{{<box>}}
-
-{{<box title="Der Weg zur Knospe">}}
-
-Die Bio Suisse wurde 1981 gegründet, um den biologischen Landbau in der Schweiz zu fördern. Die Bewegung begann als Antwort auf die zunehmende Industrialisierung der Landwirtschaft. Heute gibt es über 7.000 Bauernhöfe und Gärtnereien, die nach den strengen Richtlinien von Bio Suisse arbeiten. Seit 1993 ist das Bio-Suisse-Label, auch bekannt als die "Knospe", auf dem Markt präsent und dient als Qualitätssiegel für Konsumenten. Die Knospe steht für hohe Standards in Bezug auf Tierwohl, Biodiversität und Umweltschutz. Alle Schritte vom Feld bis zum Verkaufsregal unterliegen strengen Kontrollen, auch Alex Wüthrich muss sich dranhalten.
-
-{{</box>}}
+Die Bio Suisse wurde 1981 gegründet, um den biologischen Landbau in der Schweiz
+zu fördern. Die Bewegung begann als Antwort auf die zunehmende Industrialisierung 
+der Landwirtschaft. Heute gibt es über 7.000 Bauernhöfe und Gärtnereien, die nach 
+den strengen Richtlinien von Bio Suisse arbeiten. Seit 1993 ist das Bio-Suisse-Label,
+auch bekannt als die "Knospe", auf dem Markt präsent und dient als Qualitätssiegel
+für Konsumenten. Die Knospe steht für hohe Standards in Bezug auf Tierwohl, 
+Biodiversität und Umweltschutz. Alle Schritte vom Feld bis zum Verkaufsregal
+unterliegen strengen Kontrollen, auch Alex Wüthrich muss sich dranhalten.
 ```
 
 Für Wüthrich ist die Umstellung «keine grosse Sache» gewesen, da er schon zuvor nicht sehr intensiv und teilweise sogar ganz herbizidfrei gearbeitet hat. Der Boden hat sich deshalb nicht wirklich verändern müssen. So gut läuft der Umstellungsprozess allerdings nicht bei allen Betrieben.
@@ -50,11 +51,17 @@ Für das Futter seiner Tiere ist Wüthrich selbst verantwortlich, er darf aber f
 
 Wüthrich meint, er hätte den Schritt auf Bio schon viel früher machen sollen. Seine Eltern wollten nicht auf Biolandwirtschaft umsteigen. Er mag seine Arbeit als Biolandwirt sehr. Er mag die Vielfalt. Es stört ihn auch nicht, dass er das ganze Jahr auf seinem Betrieb lebt, «Es ist halt mein Ding».
 
+### Unterstützung vom Staat
+
 ```
-{{</*box*/>}}
-{{<box title="Unterstützung vom Staat">}}
-Als Biobauer erhält man staatliche Unterstützung, um den Biobetrieb zu erhalten. In der Schweiz sind die Lebensmittel beziehungsweise die Produktionskosten so hoch, dass der staatliche Erlös nicht alles abdeckt. Ohne zusätzliche Fördergelder könnte man als Landwirt in der Schweiz gar nicht existieren. Man bekommt vom Staat nicht einfach Geld, was viele Leute falsch verstehen. Die Fördergelder sind da, um die vielen unbezahlten Arbeitsstunden ein bisschen zu entschädigen. Wüthrich macht pro Stunde ungefähr 18 Franken, es gibt also nicht einfach unglaublich viel Geld vom Staat. Wüthrich hätte sonst längst einen neuen Stall gekauft.
-{{</*/box*/>}}
+Als Biobauer erhält man staatliche Unterstützung, um den Biobetrieb zu erhalten.
+In der Schweiz sind die Lebensmittel beziehungsweise die Produktionskosten so hoch,
+dass der staatliche Erlös nicht alles abdeckt. Ohne zusätzliche Fördergelder könnte 
+man als Landwirt in der Schweiz gar nicht existieren. Man bekommt vom Staat nicht 
+einfach Geld, was viele Leute falsch verstehen. Die Fördergelder sind da, um die
+vielen unbezahlten Arbeitsstunden ein bisschen zu entschädigen. Wüthrich macht pro
+Stunde ungefähr 18 Franken, es gibt also nicht einfach unglaublich viel Geld vom
+Staat. Wüthrich hätte sonst längst einen neuen Stall gekauft.
 ```
 
 Während des ganzen Umstellungsprozesses hat Wüthrich Unterstützung gehabt, um ihm die Umstellung zu vereinfachen. Bioberater Niklaus Sommer unterstützt Landwirte wie Alex Wüthrich bei der Umstellung und bietet Kurse an. Er findet Biolandwirtschaft eine spannende Thematik und Bewirtschaftungsform, da diese nachhaltig ist. Er möchte gerne andere Landwirte in die Biolandwirtschaft einleiten und unterstützt diese gerne während des ganzen Umstellungsprozesses. An der Biolandwirtschaft mag Sommer, dass die Produkte der Bioindustrie qualitativ gut und gesund sind, da keine chemisch synthetischen Düngemittel verwendet werden. Ihn stört es nicht, dass die Produktivität geringer als im Konventionellen ist, denn für ihn gilt Qualität über Quantität. Wie er so schön sagt: «Ich mag es zwar auch in den McDonalds zu gehen, aber nach einem McDonald's Menü hat man einfach nach zwei Stunden wieder Hunger. Dies zeigt auch auf, dass nicht die Quantität relevant ist, sondern die Qualität».
