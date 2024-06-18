@@ -4,8 +4,6 @@ date = "2024-06-18"
 draft = false
 pinned = false
 +++
-
-
 <!--StartFragment-->
 
 {{<lead>}}
@@ -16,7 +14,7 @@ Er hat bereits vor drei Jahren den Umstieg auf Bio gewagt: Heute verwendet er ke
 
 Es ist Viertel nach fünf. Alex Wüthrich steht schon auf und geht seine Tiere füttern. Er melkt seine Kühe und mistet anschliessend aus. Nun hat er schon über zwei Stunden frühmorgens gearbeitet und er macht eine Frühstückspause. Daraufhin geht er aufs Feld und muss sich um alles kümmern, was anfällt: Im Frühling fängt Alex um zehn Uhr mit der Arbeit an, damit er seine Tiere möglichst früh auf die Wiesen lassen kann. Im Winter bereitet er Brennholz, Nutzholz oder Bauholz vor, je nachdem, was gerade gefragt ist. Er selbst heizt ebenfalls viel mit Brennholz, also erneuerbarer Energie, aber auf Holzbasis. Im Biobereich beginnt er damit, die Ackerflächen zu striegeln, damit das Unkraut bedeckt oder herausgerissen wird. Alex erzählt uns, dass diese Aufgaben auch stark vom Wetter abhängen: Bei Regen tätigt er Umbauarbeiten im Inneren, repariert Anfälliges oder kann sich mit Maschinenservice beschäftigen. Wenn das Wetter jedoch angenehm ist, ist Wüthrich draussen auf dem Feld, entweder im Frühling dabei zu striegeln oder im Hochsommer dabei, das Getreide zu dreschen. Er hat besonders den Aspekt der Arbeit gutgeheissen, dass es äusserst abwechslungsreich ist, da man bei jeder Jahreszeit und bei jedem Wetter anders beschäftigt ist. Die einzige Ausnahme bildet sein Stall, der bei allen Konditionen gleich bleibt.
 
-![Hackstriegel: Die Mechanische Unkrautbekämpfung](bild1.jpg)
+![Hackstriegel: Die Mechanische Unkrautbekämpfung auf dem Hof Wüthrichs](bild1.jpg)
 
 ## Ablauf des Prozesses
 
