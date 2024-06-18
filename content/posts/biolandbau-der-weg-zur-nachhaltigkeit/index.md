@@ -1,7 +1,7 @@
 +++
 title = "Biolandbau: Der Weg zur Nachhaltigkeit"
 date = "2024-06-18"
-draft = true
+draft = false
 pinned = false
 +++
 ```
