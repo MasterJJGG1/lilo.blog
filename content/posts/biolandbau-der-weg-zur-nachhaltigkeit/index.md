@@ -1,9 +1,11 @@
 +++
 title = "Biolandbau: Der Weg zur Nachhaltigkeit"
 date = "2024-06-18"
-draft = true
+draft = false
 pinned = false
 +++
+
+
 ```
 {{</*lead*/>}}
 Biolandbau verzichtet auf chemische Pestizide und fördert die Bodenfruchtbarkeit. Diese nachhaltige Methode liefert gesunde Lebensmittel und schont die Umwelt.
