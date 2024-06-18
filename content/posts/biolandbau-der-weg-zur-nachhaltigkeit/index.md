@@ -4,7 +4,7 @@ date = "2024-06-18"
 draft = false
 pinned = false
 +++
-
+<!--StartFragment-->
 
 ```
 {{</*lead*/>}}
@@ -74,3 +74,5 @@ Eine weitere schöne Seite der Biolandwirtschaft ist, dass man einen schönen Kr
 ![agrarforschungschweiz.ch Stand 2019](bild2.png "Vergleich Deckungsbeitrag")
 
 Sommer gab noch ein paar wichtige Ratschläge für Landwirte, welche sich über den Umstieg Gedanken machen: «Es ist wichtig, dass man sich und einen langjährigen Bauern anknüpft, um von dessen Erfahrung zu profitieren». Man sollte sich sicher auch mit anderen Bauern regelmässig treffen, um zusammen über wichtige Themen und Hausforderungen zu sprechen. Kurse zu der Biolandwirtschaft kann man sicher auch besuchen und Bioberater wie Niklaus Sommer beantworten gerne auch Fragen. Der wahrscheinlich wichtigste Punkt der Biolandwirtschaft ist, dass der Landwirt wirklich umstellen will.
+
+<!--EndFragment-->
