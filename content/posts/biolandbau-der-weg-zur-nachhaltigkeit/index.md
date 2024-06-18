@@ -68,6 +68,10 @@ In der Schweiz ist der Selbstversorgungsgrad unter 60%, wenn man auf Biolandwirt
 
 Als Berater hatte es Sommer schon mit Landwirten zu tun, welche zurück in die konventionelle Landwirtschaft wechseln wollen. Das liegt manchmal an einem familiären Konflikt, beispielsweise «Der Seniorbauer, welcher sich noch daran gewöhnt war, dass er die Brennnesseln spritzt, darf dann eben nicht mehr. Das gibt dann Spannungen in der Familie.» Häufig auch an Richtlinienverschärfungen darf man für das Futter der Milchtiere nur noch fünf Prozent und nicht mehr zehn Prozent Kraftfutter verwenden.
 
+
+
+![agrarforschungschweiz.ch Stand 2019](bild2.png "Vergleich Deckungsbeitrag")
+
 ## Ist der Umstieg jetzt sinnvoll?
 
 Zunächst einmal hat man in der Biolandwirtschaft merklich mehr Arbeitsstunden als im konventionellen Betrieb; Wüthrich hat einen Mehraufwand von 500 bis 600 Zusatzstunden pro Jahr. Im Biolandbau dürfen weder Pestizide, Herbizide noch chemisch synthetischer Dünger benutzt werden. Die Unkrautbekämpfung muss jetzt mechanisch ablaufen, weshalb man mehr Zeit aufwenden muss. Für die mechanische Unkrautbekämpfung wird der Hackstriegel verwendet. Dieser kehrt die Erde mitsamt Unkraut mit langen Metalldrähten um und zerstört so das Unkraut. Das Problem am Hackstriegel: Er ist ineffektiver gegen Pilze und Schädlinge. Auch bei den Tieren gibt es einen grossen Mehraufwand. Das Frischmachen des Stalls wird häufiger gefragt, da man anders mit den Tieren umgehen muss. Man darf zum Beispiel keinen elektrischen Kuhtrainer mehr benutzen. Dafür erhält man einen Erlös, welcher Bauern wie Wüthrich in die Biolandwirtschaft lockt. In einem guten Jahr verdient man als Biobauer mehr als ein konventioneller Bauer.
@@ -77,8 +81,6 @@ Ebenfalls ein entscheidender Punkt ist der Standort des Bauernhofs. Beispielswei
 Ein zusätzlicher Faktor ist Schatten, welcher nicht ideal für Getreide ist, dafür aber Hackfrüchten wie Kartoffeln und Mais eine gute Umgebung bietet. Kartoffeln sind eine eher schwierige Kultur, da diese sehr anfällig auf Schädlinge ist.  In der Biolandwirtschaft kann man nicht gross etwas dagegen machen. Die Bodenbeschaffenheit, also ob man einen lehmigen oder einen sandigen Boden hat, spielt auch eine grosse Rolle. Je nach Kultur sind feuchtere oder trockenere Böden beliebter für den Anbau. Je nach Boden sind verschiedene Kulturen besser geeignet, bei denen eine biolandwirtschaftliche Kultivierung nicht immer lukrativ und leicht ist, wie eben im Seeland, wo eine intensive Kultivierung teilweise den grössten Profit bringt. Bei Tierbauernhöfen kann es sein, dass der Stall nicht für Biolandwirtschaft geeignet ist oder dass dieser nicht optimal ist. In dem Fall muss man den Stall umbauen und den Vorschriften anpassen, wie Wüthrich dies tun musste.
 
 Eine weitere schöne Seite der Biolandwirtschaft ist, dass man einen schönen Kreislauf hat. Man macht von den Pflanzen bis zu den Tieren alles selbst und hat viel Biodiversität. Ausserdem ist man beliebter als Biolandwirt. Man ist nicht mehr der Buhmann und wird nicht auf der Strasse angehupt. Es herrscht also auch ein gewisser sozialer Druck.  Im Grossen und Ganzen ist es jedoch wichtig, dass der jeweilige Bauer die Vor- und Nachteile selbst abwägt.
-
-![agrarforschungschweiz.ch Stand 2019](bild2.png "Vergleich Deckungsbeitrag")
 
 Sommer gab noch ein paar wichtige Ratschläge für Landwirte, welche sich über den Umstieg Gedanken machen: «Es ist wichtig, dass man sich und einen langjährigen Bauern anknüpft, um von dessen Erfahrung zu profitieren». Man sollte sich sicher auch mit anderen Bauern regelmässig treffen, um zusammen über wichtige Themen und Hausforderungen zu sprechen. Kurse zu der Biolandwirtschaft kann man sicher auch besuchen und Bioberater wie Niklaus Sommer beantworten gerne auch Fragen. Der wahrscheinlich wichtigste Punkt der Biolandwirtschaft ist, dass der Landwirt wirklich umstellen will.
 
