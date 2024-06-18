@@ -7,9 +7,9 @@ pinned = false
 <!--StartFragment-->
 
 ```
-{{</*lead*/>}}
+{{<lead>}}
 Biolandbau verzichtet auf chemische Pestizide und fördert die Bodenfruchtbarkeit. Diese nachhaltige Methode liefert gesunde Lebensmittel und schont die Umwelt.
-{{</*/lead*/>}}
+{{</lead>}}
 ```
 
 Er hat bereits vor drei Jahren den Umstieg auf Bio gewagt: Heute verwendet er keine Herbizide auf seinen Feldern, lässt seinen Kühen regelmässiger ihren Auslauf und setzt auf natürliche Schädlingsbekämpfung – etwas, das im konventionellen Landbau überhaupt nicht vorkommt.
