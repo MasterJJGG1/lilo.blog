@@ -3,6 +3,7 @@ title = "Biolandbau: Der Weg zur Nachhaltigkeit"
 date = "2024-06-18"
 draft = false
 pinned = false
+image = "image-1-.jpg"
 +++
 <!--StartFragment-->
 
