@@ -48,7 +48,7 @@ Kontrolliert werden diese Journale einmal im Jahr bei einer Vollbiokontrolle von
 
 Für das Futter seiner Tiere ist Wüthrich selbst verantwortlich, er darf aber fünf Prozent Kraftfutter verwenden. Er bewirtschaftet für das Futter und auch zum Verkauf Kulturen wie Getreide, Weizen, Hafer, Uhrdinkel, Mais und Leguminose. Das Futter besteht grösstenteils aus Gras, welches er entweder auf dem Heustock im Trockenen deponiert oder in Silos konserviert. Sobald er die gewünschte Milchsäuregärung hat, lagert er die Grassilage als Ballen im Trockenen. Er muss besonders aufpassen, dass die Ballen keine Löcher haben, um eine Fehlgärung zu vermeiden. Den Mais verarbeitet er teilweise auch zu Silage. Er wird ebenfalls mit Milchsäurebakterien konserviert, um eine ansprechende Gärung zu erhalten. Das Futter, welches Wüthrich seinen Kühen füttert, besteht daher hauptsächlich aus Gras, Silage, Mais und Heu und zusätzlich noch fünf Prozent Kraftfutter.
 
-Wüthrich meint, er hätte den Schritt auf Bio schon viel früher machen sollen. Seine Eltern wollten nicht auf Biolandwirtschaft umsteigen. Er mag seine Arbeit als Biolandwirt sehr. Er mag die Vielfalt. Es stört ihn auch nicht, dass er das ganze Jahr auf seinem Betrieb lebt, «Es ist halt mein Ding».
+Wüthrich meint, er hätte den Schritt auf Bio schon viel früher machen sollen. Seine Eltern haben nicht auf Biolandwirtschaft umsteigen wollen. Er mag seine Arbeit als Biolandwirt sehr, er mag die Vielfalt. Es stört ihn auch nicht, dass er das ganze Jahr auf seinem Betrieb lebt, «Es ist halt mein Ding».
 
 ### Unterstützung vom Staat
 
