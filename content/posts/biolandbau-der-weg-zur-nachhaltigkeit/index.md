@@ -37,7 +37,7 @@ Für Wüthrich ist die Umstellung «keine grosse Sache» gewesen, da er schon zu
 
 Bei Betrieben, welche sehr intensiv gearbeitet haben und nun auf Bio wechseln wollen, gibt es manchmal nach zwei bis drei Jahren ein Loch und die Beträge gehen runter.
 
-Bei der Umstellung musste Wüthrich für die Kühe die größten Veränderungen vornehmen. Momentan hat er immer noch einen Anbindestall, dort musste er aber seinen Kuhtrainer ersetzen. Dieser sorgte dafür, dass die Kühe nicht die ganze Zeit im Dreck lagen. Er musste den Kuhtrainer durch mechanische Metallrohre ersetzen, was weniger effizient ist und dazu führt, dass Wüthrich seit dem Umstieg viel mehr misten muss. Er macht drei- bis fünfmal am Tag den Stall frisch.
+Bei der Umstellung musste Wüthrich für die Kühe die grössten Veränderungen vornehmen. Momentan hat er immer noch einen Anbindestall, dort musste er aber seinen Kuhtrainer ersetzen. Dieser sorgte dafür, dass die Kühe nicht die ganze Zeit im Dreck lagen. Er musste den Kuhtrainer durch mechanische Metallrohre ersetzen, was weniger effizient ist und dazu führt, dass Wüthrich seit dem Umstieg viel mehr misten muss. Er macht drei- bis fünfmal am Tag den Stall frisch.
 
 Er hat zwar noch einen Anbindestall, doch seine Kühe haben mehr Auslauf. Vorschrift ist, dass sie im Winter mindestens 13-mal im Monat auf den Laufhof dürfen und mindestens 22-mal im Sommer. Dies wird auch kontrolliert, Wüthrich notiert, wann er die Kühe hinauslässt, in seinem Auslaufjournal. Insgesamt führt er zwei Journale und das zweite Journal ist das Arzneimitteljournal.
 
