@@ -69,7 +69,7 @@ In der Schweiz ist der Selbstversorgungsgrad unter 60%, wenn man auf Biolandwirt
 
 Als Berater hatte es Sommer schon mit Landwirten zu tun, welche zurück in die konventionelle Landwirtschaft wechseln wollen. Das liegt manchmal an einem familiären Konflikt, beispielsweise «Der Seniorbauer, welcher sich noch daran gewöhnt war, dass er die Brennnesseln spritzt, darf dann eben nicht mehr. Das gibt dann Spannungen in der Familie.» Häufig auch an Richtlinienverschärfungen darf man für das Futter der Milchtiere nur noch fünf Prozent und nicht mehr zehn Prozent Kraftfutter verwenden.
 
-![agrarforschungschweiz.ch Stand 2019](bild2.png "Vergleich Deckungsbeitrag")
+![Vergleich Erlös des Deckungsbeitrages im Biolandbau mit der konventionellen Landwirtschaft - agrarforschungschweiz.ch Stand 2019](bild2.png "Vergleich Deckungsbeitrag")
 
 ## Ist der Umstieg jetzt sinnvoll?
 
