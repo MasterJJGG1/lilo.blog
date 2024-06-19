@@ -17,12 +17,6 @@ Es ist Viertel nach fünf. Alex Wüthrich steht schon auf und geht seine Tiere f
 
 ![Hackstriegel: Die mechanische Unkrautbekämpfung auf dem Hof Wüthrichs](bild1.jpg)
 
-## Ablauf des Prozesses
-
-Der 43-jährige Alex Wüthrich lebt zusammen mit Frau und Vater und seinen zwei Kindern auf seinem Betrieb im Gümligental. Er ist seit 27 Jahren Bauer; als er 16 war, galt er offiziell als Bauer. Zu Beginn seiner Laufbahn war er auswärts als Bauer aktiv. Nach einigen Jahren kehrte er wieder ins Gümligental zurück zum Betrieb seines Vaters, um ihn zu unterstützen. 2016 übernahm er mittels Kaufvertrags den Betrieb seines Vaters und 4 Jahre später beschloss er, den Umstieg auf Bio zu wagen.
-
-Die hügelige und extensive Landschaft der Umgebung machte intensive Landwirtschaft schwierig, was einer der Gründe für den Umstieg war. Als er seine Masterprüfung abschloss, wog er die Vor- und Nachteile der Biolandwirtschaft ab. Zum Beispiel berücksichtigte er den Mehraufwand und die Notwendigkeit, resistentere Kulturen zu wählen, wie eine widerstandsfähigere Getreidesorte. Ein Vorteil war für ihn der staatliche Erlös. Für Wüthrich war es auch eine ethische Frage. Er wollte nachhaltig produzieren, den Boden gesund erhalten, um somit einen geschlossenen Kreislauf auf seinem Betrieb schaffen. Anfang 2021 wurde der Betrieb als Umstellungsbetrieb anerkannt und seit dem 1. Januar 2023 ist er offiziell ein Biobetrieb. Er erklärte uns, wie die Umstellung für ihn verlief.
-
 ### Der Weg zur Knospe
 
 ```
@@ -35,6 +29,12 @@ für Konsumenten. Die Knospe steht für hohe Standards in Bezug auf Tierwohl,
 Biodiversität und Umweltschutz. Alle Schritte vom Feld bis zum Verkaufsregal
 unterliegen strengen Kontrollen, auch Alex Wüthrich muss sich dranhalten.
 ```
+
+## Ablauf des Prozesses
+
+Der 43-jährige Alex Wüthrich lebt zusammen mit Frau und Vater und seinen zwei Kindern auf seinem Betrieb im Gümligental. Er ist seit 27 Jahren Bauer; als er 16 war, galt er offiziell als Bauer. Zu Beginn seiner Laufbahn war er auswärts als Bauer aktiv. Nach einigen Jahren kehrte er wieder ins Gümligental zurück zum Betrieb seines Vaters, um ihn zu unterstützen. 2016 übernahm er mittels Kaufvertrags den Betrieb seines Vaters und 4 Jahre später beschloss er, den Umstieg auf Bio zu wagen.
+
+Die hügelige und extensive Landschaft der Umgebung machte intensive Landwirtschaft schwierig, was einer der Gründe für den Umstieg war. Als er seine Masterprüfung abschloss, wog er die Vor- und Nachteile der Biolandwirtschaft ab. Zum Beispiel berücksichtigte er den Mehraufwand und die Notwendigkeit, resistentere Kulturen zu wählen, wie eine widerstandsfähigere Getreidesorte. Ein Vorteil war für ihn der staatliche Erlös. Für Wüthrich war es auch eine ethische Frage. Er wollte nachhaltig produzieren, den Boden gesund erhalten, um somit einen geschlossenen Kreislauf auf seinem Betrieb schaffen. Anfang 2021 wurde der Betrieb als Umstellungsbetrieb anerkannt und seit dem 1. Januar 2023 ist er offiziell ein Biobetrieb. Er erklärte uns, wie die Umstellung für ihn verlief.
 
 Für Wüthrich ist die Umstellung «keine grosse Sache» gewesen, da er schon zuvor nicht sehr intensiv und teilweise sogar ganz herbizidfrei gearbeitet hat. Der Boden hat sich deshalb nicht wirklich verändern müssen. So gut läuft der Umstellungsprozess allerdings nicht bei allen Betrieben.
 
