@@ -23,10 +23,10 @@ Es ist Viertel nach fünf. Alex Wüthrich steht schon auf und geht seine Tiere f
 Bio Suisse wurde 1981 gegründet, um den biologischen Landbau in der Schweiz zu fördern. Die Bewegung begann als Antwort auf die zunehmende Industrialisierung der Landwirtschaft. Heute gibt es über 7.000 Bauernhöfe und Gärtnereien, die nach den strengen Richtlinien von Bio Suisse arbeiten. Seit 1993 ist das Bio-Suisse-Label, auch bekannt als die "Knospe", auf dem Markt präsent und dient als Qualitätssiegel für Konsumenten*innen. Die Knospe steht für hohe Standards in Bezug auf Tierwohl, Biodiversität und Umweltschutz. Alle Schritte vom Feld bis zum Verkaufsregal unterliegen strengen Kontrollen, auch Alex Wüthrich muss sich dranhalten.
 ```
 
-`{{</*box*/>}}`\
+{{<box>}}
 Bio Suisse wurde 1981 gegründet, um den biologischen Landbau in der Schweiz zu fördern. Die Bewegung begann als Antwort auf die zunehmende Industrialisierung der Landwirtschaft. Heute gibt es über 7.000 Bauernhöfe und Gärtnereien, die nach den strengen Richtlinien von Bio Suisse arbeiten. Seit 1993 ist das Bio-Suisse-Label, auch bekannt als die "Knospe", auf dem Markt präsent und dient als Qualitätssiegel für Konsumenten*innen. Die Knospe steht für hohe Standards in Bezug auf Tierwohl, Biodiversität und Umweltschutz. Alle Schritte vom Feld bis zum Verkaufsregal unterliegen strengen Kontrollen, auch Alex Wüthrich muss sich dranhalten.
 
-`{{</*/box*/>}}`
+{{</box>}}
 
 ## Ablauf des Prozesses
 
