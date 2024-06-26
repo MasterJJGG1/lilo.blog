@@ -44,7 +44,7 @@ Für das Futter seiner Tiere ist Wüthrich selbst verantwortlich, er darf aber f
 
 Wüthrich meint, er hätte den Schritt auf Bio schon viel früher machen sollen. Seine Eltern hätten nicht auf Biolandwirtschaft umsteigen wollen. Er mag seine Arbeit als Biolandwirt sehr, ihm gefällt die Vielfalt. Es störe ihn auch nicht, dass er das ganze Jahr auf seinem Betrieb lebt, «es ist halt mein Ding».
 
-![Ein Kuhtrainer - tutti.ch](8855984761.jpg)
+![Mechanischer Kuhtrainer - tutti.ch](8855984761.jpg)
 
 ### Unterstützung vom Staat
 
