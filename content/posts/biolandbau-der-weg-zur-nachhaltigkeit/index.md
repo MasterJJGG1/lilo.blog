@@ -11,24 +11,22 @@ image = "image-1-.jpg"
 Biolandbau verzichtet auf chemische Pestizide und fördert die Bodenfruchtbarkeit. Diese nachhaltige Methode liefert gesunde Lebensmittel und schont die Umwelt.
 {{</lead>}}
 
-Er hat bereits vor drei Jahren den Umstieg auf Bio gewagt: Heute verwendet er keine Herbizide auf seinen Feldern, lässt seinen Kühen regelmässiger ihren Auslauf und setzt auf natürliche Schädlingsbekämpfung – etwas, dass im konventionellen Landbau überhaupt nicht vorkommt.
+Er hat bereits vor drei Jahren den Umstieg auf Bio gewagt: Heute verwendet er keine Herbizide auf seinen Feldern, lässt seinen Kühen regelmässig ihren Auslauf und setzt auf natürliche Schädlingsbekämpfung – etwas, das im konventionellen Landbau überhaupt nicht vorkommt.
 
-Es ist Viertel nach fünf. Alex Wüthrich steht schon auf und geht seine Tiere füttern. Er melkt seine Kühe und mistet anschliessend aus. Nun hat er schon über zwei Stunden frühmorgens gearbeitet und er macht eine Frühstückspause. Daraufhin geht er aufs Feld und muss sich um alles kümmern, was anfällt. Als Biobauer ist seine Arbeit sehr vielfältig: Im Frühling fängt Alex um zehn Uhr mit der Arbeit an, damit er seine Tiere möglichst früh auf die Wiesen lassen kann. Im Winter bereitet er Brennholz, Nutzholz oder Bauholz vor, je nachdem, was gerade gefragt ist. Er selbst heizt ebenfalls viel mit Brennholz, also erneuerbarer Energie, aber auf Holzbasis. Im Biobereich beginnt er damit, die Ackerflächen zu striegeln, damit das Unkraut bedeckt oder herausgerissen wird. Alex erzählt uns, dass diese Aufgaben auch stark vom Wetter abhängen: Bei Regen tätigt er Umbauarbeiten im Inneren, repariert Anfälliges oder kann sich mit Maschinenservice beschäftigen. Wenn das Wetter jedoch angenehm ist, ist Wüthrich draussen auf dem Feld, entweder im Frühling dabei zu striegeln oder im Hochsommer dabei, das Getreide zu dreschen. Er hat besonders den Aspekt der Arbeit gutgeheissen, dass es äusserst abwechslungsreich ist, da man bei jeder Jahreszeit und bei jedem Wetter anders beschäftigt ist. Die einzige Ausnahme bildet die Stallarbeit, welche bei allen Konditionen gleich bleibt.
+Es ist Viertel nach fünf. Alex Wüthrich steht schon auf und geht seine Tiere füttern. Er melkt seine Kühe und mistet anschliessend aus. Frühmorgens hat er schon über zwei Stunden gearbeitet und er macht eine Frühstückspause. Daraufhin geht er aufs Feld und muss sich um alles kümmern, was anfällt. Als Biobauer ist seine Arbeit sehr vielfältig: Im Frühling fängt Alex um zehn Uhr mit der Arbeit an, damit er seine Tiere möglichst früh auf die Wiesen lassen kann. Im Winter bereitet er Brennholz, Nutzholz oder Bauholz vor, je nachdem, was gerade gefragt ist. Er selbst heizt ebenfalls viel mit Brennholz, also erneuerbarer Energie. Er beginnt damit, die Ackerflächen zu striegeln, damit das Unkraut bedeckt oder herausgerissen wird. Alex erzählt, dass diese Aufgaben auch stark vom Wetter abhängen: Bei Regen tätigt er Umbauarbeiten im Inneren, repariert Anfälliges oder kann sich mit Maschinenservice beschäftigen. Wenn das Wetter jedoch angenehm ist, ist Wüthrich draussen auf dem Feld, entweder im Frühling dabei zu striegeln oder im Hochsommer dabei das Getreide zu dreschen. Er hat besonders den Aspekt der Arbeit hervorgehoben, dass es äusserst abwechslungsreich ist, da man bei jeder Jahreszeit und bei jedem Wetter anders beschäftigt ist. Die einzige Ausnahme bildet die Stallarbeit, welche unter allen Bedingungen gleich bleibt.
 
 ![Hackstriegel: Die mechanische Unkrautbekämpfung auf dem Hof Wüthrichs](bild1.jpg)
 
 ### Der Weg zur Knospe
 
 ```
-Die Bio Suisse wurde 1981 gegründet, um den biologischen Landbau in der Schweiz
-zu fördern. Die Bewegung begann als Antwort auf die zunehmende Industrialisierung 
-der Landwirtschaft. Heute gibt es über 7.000 Bauernhöfe und Gärtnereien, die nach 
-den strengen Richtlinien von Bio Suisse arbeiten. Seit 1993 ist das Bio-Suisse-Label,
-auch bekannt als die "Knospe", auf dem Markt präsent und dient als Qualitätssiegel
-für Konsumenten*innen. Die Knospe steht für hohe Standards in Bezug auf Tierwohl, 
-Biodiversität und Umweltschutz. Alle Schritte vom Feld bis zum Verkaufsregal
-unterliegen strengen Kontrollen, auch Alex Wüthrich muss sich dranhalten.
+Bio Suisse wurde 1981 gegründet, um den biologischen Landbau in der Schweiz zu fördern. Die Bewegung begann als Antwort auf die zunehmende Industrialisierung der Landwirtschaft. Heute gibt es über 7.000 Bauernhöfe und Gärtnereien, die nach den strengen Richtlinien von Bio Suisse arbeiten. Seit 1993 ist das Bio-Suisse-Label, auch bekannt als die "Knospe", auf dem Markt präsent und dient als Qualitätssiegel für Konsumenten*innen. Die Knospe steht für hohe Standards in Bezug auf Tierwohl, Biodiversität und Umweltschutz. Alle Schritte vom Feld bis zum Verkaufsregal unterliegen strengen Kontrollen, auch Alex Wüthrich muss sich dranhalten.
 ```
+
+`{{</*box*/>}}`\
+Bio Suisse wurde 1981 gegründet, um den biologischen Landbau in der Schweiz zu fördern. Die Bewegung begann als Antwort auf die zunehmende Industrialisierung der Landwirtschaft. Heute gibt es über 7.000 Bauernhöfe und Gärtnereien, die nach den strengen Richtlinien von Bio Suisse arbeiten. Seit 1993 ist das Bio-Suisse-Label, auch bekannt als die "Knospe", auf dem Markt präsent und dient als Qualitätssiegel für Konsumenten*innen. Die Knospe steht für hohe Standards in Bezug auf Tierwohl, Biodiversität und Umweltschutz. Alle Schritte vom Feld bis zum Verkaufsregal unterliegen strengen Kontrollen, auch Alex Wüthrich muss sich dranhalten.
+
+`{{</*/box*/>}}`
 
 ## Ablauf des Prozesses
 
